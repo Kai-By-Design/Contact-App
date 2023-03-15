@@ -2,71 +2,72 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Goals Description
 
-In the project directory, you can run:
+Utilize and Further Explore React:
 
-# Test change to file.
+- Components:
+  - Functional
+  - Class
+- JSX
+- Props
+- State
+- useState
+- useEffect
+- Components:
+  - Lifecycle
+  - Methods
+- Conditional Rendering
+- List & Keys
+- Basic Form Handling
+- Project Structure
+- Routing React Router
+- Programmatic Navigation
+- Setup JSON Server
+- API Calls (Axios)
+- React CRUD Operations
+- React Search Filter
+- React Hooks
 
-### `npm start`
+## Project Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project intends to create a basic CRUD Contact Form and List that allows users to:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Add Contacts:
+  1. Enter Name into Full Name field
+  2. Enter Email into Email field
+  3. _Possibly add an interaction Note Field_
+- Edit or Update Contact Information
+- Delete Contact
+- _Possibly Sort Contacts alphabetically by Name Field or by Most Recent Interaction or original interaction._
+- _Possibly Search for Contacts by Name Field_
 
-### `npm test`
+## Acceptance Criteria
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- App that allows users to create edit and delete contacts
 
-### `npm run build`
+## Testing Steps / QA Criteria
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_(Not complete Yet)_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Link to Working Code
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Link to app: (coming soon)
 
-### `npm run eject`
+== ## Instructions ==
+**Add Contact**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Enter Name in Field
+2. Enter Email
+3. Click Add Button
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Edit Contact**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Click on _Edit_ icon to the right of the contact
+2. Make Changes to the Name or Email
+3. Click the _Save_ button to save the changes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Delete Contact**
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Click on _Delete_ icon to the right of the contact
+2. The contact will be deleted.
