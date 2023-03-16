@@ -54,7 +54,8 @@ _(Not complete Yet)_
 
 Link to app: (coming soon)
 
-== ## Instructions ==
+## Instructions
+
 **Add Contact**
 
 1. Enter Name in Field
