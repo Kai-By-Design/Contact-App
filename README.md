@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Link to Working Code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to app: (coming soon)
 
 ## Goals Description
 
@@ -37,22 +37,12 @@ This project intends to create a basic CRUD Contact Form and List that allows us
   1. Enter Name into Full Name field
   2. Enter Email into Email field
   3. _Possibly add an interaction Note Field_
-- Edit or Update Contact Information
 - Delete Contact
-- _Possibly Sort Contacts alphabetically by Name Field or by Most Recent Interaction or original interaction._
-- _Possibly Search for Contacts by Name Field_
 
-## Acceptance Criteria
-
-- App that allows users to create edit and delete contacts
-
-## Testing Steps / QA Criteria
-
-_(Not complete Yet)_
-
-# Link to Working Code
-
-Link to app: (coming soon)
+- Future Features (V2):
+  1. _Edit or Update Contact Information_
+  2. _Sort Contacts alphabetically by Name Field or by Most Recent Interaction or original interaction._
+  3. _Search for Contacts by Name Field_
 
 ## Instructions
 
@@ -61,12 +51,6 @@ Link to app: (coming soon)
 1. Enter Name in Field
 2. Enter Email
 3. Click Add Button
-
-**Edit Contact**
-
-1. Click on _Edit_ icon to the right of the contact
-2. Make Changes to the Name or Email
-3. Click the _Save_ button to save the changes
 
 **Delete Contact**
 
