@@ -38,9 +38,10 @@ class AddContact extends React.Component {
           <div className="field">
             <label>Email</label>
             <input
-              type="text"
+              // Using type email in order to create a built in validation of email input
+              type="email"
               name="email"
-              placeholder="Email"
+              placeholder="Email@emailaddress.com"
               value={this.state.email}
               onChange={(e) => this.setState({ email: e.target.value })}
             />
