@@ -6,11 +6,11 @@ const ContactCard = (props) => {
   return (
     <div className="item">
       <img
-        className="ui avatar image"
+        className="ui mini avatar image"
         src={user}
         alt="user image placeholder"
       ></img>
-      <div className="content">
+      <div className="middle aligned content">
         <div className="header">{name}</div>
         <div>{email}</div>
       </div>
@@ -20,7 +20,7 @@ const ContactCard = (props) => {
         onClick={() => props.clickHandler(id)}
       ></i> */}
       <i
-        className="trash alternate outline icon"
+        className="right floated center middle large trash alternate outline icon button"
         style={{ color: "red", marginTop: "7px" }}
         onClick={() => props.clickHander(id)}
       ></i>
