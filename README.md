@@ -1,6 +1,8 @@
-# Link to Working Code
+# Contact Manager
 
-Link to app: https://kai-by-design.github.io/Contact-App/
+## Link to Working Code
+
+Please visit link to app Version 1.0: https://kai-by-design.github.io/Contact-App/
 
 ## Goals Description
 
@@ -36,15 +38,15 @@ This project intends to create a basic CRUD Contact Form and List that allows us
 - Add Contacts:
   1. Enter Name into Full Name field
   2. Enter Email into Email field
-  3. _Possibly add an interaction Note Field_
 - Delete Contact
 
 - Future Features (V2):
   1. _Edit or Update Contact Information_
   2. _Sort Contacts alphabetically by Name Field or by Most Recent Interaction or original interaction._
   3. _Search for Contacts by Name Field_
+  4. _Possibly add an interaction Note Field_
 
-## Instructions
+## Instructions :
 
 **Add Contact**
 
